@@ -35,8 +35,10 @@ SportsCenter Project/
 ```
 
 ## 📸 Ekran Görüntüleri
-
-"
+### Responsive Görünüm 
+![SportCenter](ResponsiveGörünüm.png)
+### Genel Görünüm 
+![SportCenter](ResponsiveGörünüm.png)
 
 ## 🚀 Başlarken
 
