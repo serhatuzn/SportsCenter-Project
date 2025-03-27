@@ -2,6 +2,9 @@
 
 **SportsCenter**'a hoş geldiniz! Bu proje, modern ve etkileyici bir spor merkezi veya fitness landing page tasarımı sunar. Basitlik ve estetik odaklı olarak geliştirildi.
 
+## 📸 Live Preview
+https://sportt-centerr.netlify.app/
+
 ## 🔍 Genel Bakış
 
 Bu proje aşağıdaki bölümlerden oluşur:
@@ -33,11 +36,10 @@ SportsCenter Project/
     ├── trainer1.jpg ...
     └── logo.png
 ```
-
 ## 📸 Ekran Görüntüleri
-### Responsive Görünüm 
-![SportCenter](ResponsiveGörünüm.png)
 ### Genel Görünüm 
+![SportCenter](GenelGörünüm.png)
+### Responsive Görünüm 
 ![SportCenter](ResponsiveGörünüm.png)
 
 ## 🚀 Başlarken
